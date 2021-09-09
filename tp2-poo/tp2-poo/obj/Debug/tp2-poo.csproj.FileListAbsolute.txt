@@ -1,0 +1,7 @@
+C:\Users\ANGEL\source\repos\tp2-poo\tp2-poo\bin\Debug\tp2-poo.exe.config
+C:\Users\ANGEL\source\repos\tp2-poo\tp2-poo\bin\Debug\tp2-poo.exe
+C:\Users\ANGEL\source\repos\tp2-poo\tp2-poo\bin\Debug\tp2-poo.pdb
+C:\Users\ANGEL\source\repos\tp2-poo\tp2-poo\obj\Debug\tp2-poo.csproj.AssemblyReference.cache
+C:\Users\ANGEL\source\repos\tp2-poo\tp2-poo\obj\Debug\tp2-poo.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\source\repos\tp2-poo\tp2-poo\obj\Debug\tp2-poo.exe
+C:\Users\ANGEL\source\repos\tp2-poo\tp2-poo\obj\Debug\tp2-poo.pdb
