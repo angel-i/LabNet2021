@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ANGEL\\source\\repos\\LabNet2021-tp3\\tp3-excep-em-test\\TP3\\TP3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ANGEL\\source\\repos\\LabNet2021-tp3\\tp3-excep-em-test\\TP3\\TP3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ANGEL\\source\\repos\\LabNet2021-tp3\\tp3-excep-em-test\\TP3\\TP3.csproj",
+        "projectName": "TP3",
+        "projectPath": "C:\\Users\\ANGEL\\source\\repos\\LabNet2021-tp3\\tp3-excep-em-test\\TP3\\TP3.csproj",
+        "packagesPath": "C:\\Users\\ANGEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ANGEL\\source\\repos\\LabNet2021-tp3\\tp3-excep-em-test\\TP3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ANGEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

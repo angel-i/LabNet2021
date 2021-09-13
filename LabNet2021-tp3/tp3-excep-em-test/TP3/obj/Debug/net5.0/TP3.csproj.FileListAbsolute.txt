@@ -1,0 +1,16 @@
+C:\Users\ANGEL\source\repos\LabNet2021-tp3\tp3-excep-em-test\TP3\bin\Debug\net5.0\TP3.exe
+C:\Users\ANGEL\source\repos\LabNet2021-tp3\tp3-excep-em-test\TP3\bin\Debug\net5.0\TP3.deps.json
+C:\Users\ANGEL\source\repos\LabNet2021-tp3\tp3-excep-em-test\TP3\bin\Debug\net5.0\TP3.runtimeconfig.json
+C:\Users\ANGEL\source\repos\LabNet2021-tp3\tp3-excep-em-test\TP3\bin\Debug\net5.0\TP3.runtimeconfig.dev.json
+C:\Users\ANGEL\source\repos\LabNet2021-tp3\tp3-excep-em-test\TP3\bin\Debug\net5.0\TP3.dll
+C:\Users\ANGEL\source\repos\LabNet2021-tp3\tp3-excep-em-test\TP3\bin\Debug\net5.0\ref\TP3.dll
+C:\Users\ANGEL\source\repos\LabNet2021-tp3\tp3-excep-em-test\TP3\bin\Debug\net5.0\TP3.pdb
+C:\Users\ANGEL\source\repos\LabNet2021-tp3\tp3-excep-em-test\TP3\obj\Debug\net5.0\TP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGEL\source\repos\LabNet2021-tp3\tp3-excep-em-test\TP3\obj\Debug\net5.0\TP3.AssemblyInfoInputs.cache
+C:\Users\ANGEL\source\repos\LabNet2021-tp3\tp3-excep-em-test\TP3\obj\Debug\net5.0\TP3.AssemblyInfo.cs
+C:\Users\ANGEL\source\repos\LabNet2021-tp3\tp3-excep-em-test\TP3\obj\Debug\net5.0\TP3.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\source\repos\LabNet2021-tp3\tp3-excep-em-test\TP3\obj\Debug\net5.0\TP3.dll
+C:\Users\ANGEL\source\repos\LabNet2021-tp3\tp3-excep-em-test\TP3\obj\Debug\net5.0\ref\TP3.dll
+C:\Users\ANGEL\source\repos\LabNet2021-tp3\tp3-excep-em-test\TP3\obj\Debug\net5.0\TP3.pdb
+C:\Users\ANGEL\source\repos\LabNet2021-tp3\tp3-excep-em-test\TP3\obj\Debug\net5.0\TP3.genruntimeconfig.cache
+C:\Users\ANGEL\source\repos\LabNet2021-tp3\tp3-excep-em-test\TP3\obj\Debug\net5.0\TP3.csproj.AssemblyReference.cache
